@@ -153,6 +153,7 @@ Encryption and Access Control:
 
 ### Wallets and Account Abstraction (AA)
 
+-**[Openfort](https://www.openfort.xyz/integrations/lit-protocol)**: Frictionless smart acounts for web3 games.
 - **[Peaze](https://www.peaze.com/)**: Seamless onboarding for Web3.
 - **[Pimlico](https://docs.pimlico.io/how-to/integrations/lit-protocol)**: An infrastructure platform building the next generation of smart wallets.
 - **[MagicWallet](https://github.com/DustilDawn/Magic)**: One account, multiple seedless wallets.
